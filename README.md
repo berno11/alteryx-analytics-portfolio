@@ -11,7 +11,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-📧 berno77@gmail.com · 📍 Charlotte, NC · 💼 [View Portfolio Page](https://berno11.github.io/alteryx-analytics-portfolio/landing.html)
+📧 berno77@gmail.com · 📍 Charlotte, NC · 💼 [View Portfolio Page](https://berno11.github.io/alteryx-analytics-portfolio/) · 🛒 [Buy Practice Datasets — $15](https://berno11.github.io/alteryx-analytics-portfolio/landing.html)
 
 </div>
 
